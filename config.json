@@ -4,7 +4,7 @@
     "memory": "1024",
     "synced_folders": [
       {
-        "host_path": "data/",
+        "host_path": "../drupal7/",
         "guest_path": "/var/www",
         "type": "default"
       }
@@ -32,7 +32,7 @@
         "site_name": "Drupal 7",
         "site_mail": "box@example.com",
         "vhost": {
-          "document_root": "drupal7",
+          "document_root": "",
           "url": "drupal7.dev",
           "alias": ["www.drupal7.dev"]
         }
