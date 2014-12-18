@@ -4,7 +4,7 @@
     "memory": "1024",
     "synced_folders": [
       {
-        "host_path": "../drupal7/",
+        "host_path": "cms/",
         "guest_path": "/var/www",
         "type": "default"
       }
