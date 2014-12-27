@@ -1,0 +1,4 @@
+[submodule "cms"]
+	path = cms
+	url = git@github.com:SanCouncil/cms.git
+	branch = master
